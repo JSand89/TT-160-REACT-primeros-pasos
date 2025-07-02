@@ -1,0 +1,9 @@
+.features {
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-image: url(../assets/react.svg);
+    background-repeat: no-repeat;
+
+}
